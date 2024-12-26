@@ -1,0 +1,23 @@
+Sample CT Imaging Report
+---
+Patient Name: John Doe
+Date of Birth: 01/01/1970
+Date of Exam: 10/10/2023
+Referring Physician: Dr. Smith
+Indication: Evaluation of lung mass
+CT Chest Report:
+Findings:
+Lungs:
+There is a 4.5 cm mass located in the right upper lobe of the lung.
+No evidence of additional masses or nodules in the same lobe or other lobes of the lung.
+Lymph Nodes:
+Enlarged lymph nodes are noted in the right hilar region, measuring up to 1.5 cm, indicating involvement of lymph nodes within the lung or in the area where the lungs join the airway.
+Pleura and Chest Wall:
+No pleural effusion or chest wall invasion is observed.
+Mediastinum:
+No significant mediastinal lymphadenopathy.
+Impression:
+Right upper lobe lung mass measuring 4.5 cm.
+Right hilar lymphadenopathy present.
+No evidence of distant metastasis on CT.
+---

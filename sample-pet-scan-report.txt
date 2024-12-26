@@ -1,0 +1,20 @@
+Sample PET Scan Report
+---
+Patient Name: John Doe
+Date of Birth: 01/01/1970
+Date of Exam: 10/15/2023
+Referring Physician: Dr. Smith
+Indication: Staging of known lung cancer
+PET Scan Report:
+Findings:
+Lungs:
+Hypermetabolic activity is noted in the right upper lobe mass, consistent with the known primary lung cancer. The SUV max is 12.5, indicating high metabolic activity.
+Lymph Nodes:
+Increased FDG uptake in the right hilar lymph nodes, consistent with metastatic involvement.
+Distant Metastasis:
+No abnormal FDG uptake is noted in the liver, brain, or other distant organs.
+Impression:
+Hypermetabolic right upper lobe lung mass and right hilar lymphadenopathy, consistent with known lung cancer.
+No evidence of distant metastatic disease on PET scan.
+---
+These reports are fictional and meant for illustrative purposes. In a real clinical setting, the reports would be tailored to the specific findings and clinical context of the patient.

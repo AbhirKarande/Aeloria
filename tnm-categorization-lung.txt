@@ -1,0 +1,109 @@
+Tumour (T)
+Tumour describes the size of the tumour (area of cancer). This is a simplified description of the T stage.
+
+There are 4 categories – T1 to T4.
+
+TX: means the main cancer (primary) can’t be assessed. It doesn't show on scans but there might be cancer cells present in spit or in fluid taken from the lung.
+
+T0: means there is no sign of cancer.
+
+Tis: means an area of cancer cells contained within the inner lining of the lungs.
+
+T1:
+T1 means the cancer is contained within the lung.
+
+T1mi: is a staging description for a type of non small cell lung cancer called adenocarcinoma. It means minimally invasive adenocarcinoma. The cancer is no more than 3cm at its widest part. It’s grown no further than 0.5cm into deeper lung tissue.
+
+It is divided into T1a, T1b, and T1c according to the diameter of the cancer.
+
+T1a: means the cancer is 1cm or less at its widest part.
+
+T1b: means the cancer is between 1cm and 2cm across.
+
+T1c: means the cancer is between 2 and 3 cm across.
+
+T2:
+T2 can mean different things.
+
+The cancer is between 3cm and 5cm across.
+
+Or the cancer has one or more of the following features:
+
+it involves the main airway (the main bronchus) but is not close to the area where the bronchus divides to go into each lung
+it involves the inner lining of the chest cavity (the visceral pleura)
+part or all of the lung has collapsed or is blocked due to inflammation
+T2: is divided into T2a and T2b.
+
+T2a: means the cancer is between 3cm and 4cm.
+
+T2b: means the cancer is between 4cm and 5cm.
+
+T3:
+T3 can mean different things.
+
+The cancer is between 5cm to 7cm.
+
+Or there is more than one tumour in the same lobe of the lung.
+
+Or the cancer has grown into one or more of these structures:
+
+the chest wall (the protective structure around the lungs and other organs in the chest)
+the outer lining of the chest cavity (the parietal pleura)
+the nerve close to the lung (phrenic nerve)
+the outer covering of the heart (the pericardium)
+T4:
+T4 can mean different things.
+
+The cancer is bigger than 7cm.
+
+Or it is in more than one lobe of the lung.
+
+Or it has spread into one or more of the following structures:
+
+the muscle below the lungs (the diaphragm)
+the area between the lungs in the middle of the chest (the mediastinum)
+the heart
+a major blood vessel
+the wind pipe (trachea)
+the nerve that controls the voice box
+the food pipe (oesophagus)
+a spinal bone
+the area where the main airway divides to go to each lung
+Node (N)
+Node (N) describes whether the cancer has spread to the lymph nodes.
+
+NX: means that the lymph nodes can’t be assessed.
+
+N0: means that the lymph nodes don’t contain cancer cells.
+
+N1:
+N1 means there are cancer cells in lymph nodes within the lung or in lymph nodes in the area where the lungs join the airway (the hilum).
+
+N2:
+N2 means there is cancer in lymph nodes:
+
+in the centre of the chest (mediastinum) on the same side as the affected lung or
+just under where the windpipe branches off to each lung
+N3:
+N3 means there is cancer in lymph nodes:
+
+on the opposite side of the chest from the affected lung or
+above the collar bone or
+at the top of the lung
+Metastasis (M)
+Metastasis (M) describes whether the cancer has spread to a different part of the body.
+
+M0 and M1:
+There are 2 stages of metastasis – M0 and M1.
+
+M0: means the cancer hasn’t spread to another lobe of the lung or any other part of the body.
+
+M1: means the cancer has spread to other areas of the body. It is split into M1a, M1b and M1c. 
+
+M1a: means one or more of the following:
+
+there is cancer in both lungs
+there are areas of cancer in the lining around the lung or the lining around the heart
+there is fluid around the lung or heart that contains cancer cells – this is called a malignant pleural effusion or a malignant pericardial effusion
+M1b: means that there is a single area of cancer outside the chest in an organ (such as the liver or brain) or a lymph node.
+M1c: means that there is more than one area of cancer in one or several organs.
