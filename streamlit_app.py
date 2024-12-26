@@ -1,10 +1,19 @@
 import streamlit as st
 import os
+from dotenv import load_dotenv
 from tnm_stage_calculator import process_medical_reports
+
+# Load environment variables from .env file
+load_dotenv()
 
 def main():
     st.title("TNM Stage Calculator")
     st.write("Upload CT and PET scan reports to determine cancer staging")
+
+    # Check if API key is configured
+    if not os.getenv("GROQ_API_KEY"):
+        st.error("Please configure GROQ_API_KEY in your environment variables or .env file")
+        return
 
     uploaded_files = st.file_uploader(
         "Upload medical reports (CT scan, PET scan, etc.)", 
@@ -18,16 +27,14 @@ def main():
             report_content = file.read().decode()
             all_reports += f"\n--- Report from {file.name} ---\n{report_content}\n"
             
-        groq_api_key = "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"
-
         if st.button("Analyze Reports"):
             with st.spinner("Analyzing reports..."):
                 try:
-                    # Process the reports
+                    # Pass the API key from environment variables
                     result = process_medical_reports(
                         ct_report=all_reports,
                         pet_report=all_reports,
-                        groq_api_key=groq_api_key
+                        groq_api_key=os.getenv("GROQ_API_KEY")
                     )
 
                     # Access the results directly from the dictionary
